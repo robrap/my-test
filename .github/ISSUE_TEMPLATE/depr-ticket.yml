@@ -78,7 +78,7 @@ body:
     id: tasks
     attributes:
       label: Task List
-      description: "- [ ] Task 1 needed to deprecate or remove this feature.
+      description: "- [ ] Task 1 needed to deprecate or remove this feature."
     validations:
       required: false
 

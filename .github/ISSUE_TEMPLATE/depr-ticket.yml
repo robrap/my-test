@@ -78,7 +78,8 @@ body:
     id: tasks
     attributes:
       label: Task List
-      description: "- [ ] Task 1 needed to deprecate or remove this feature."
+      description: A list of tasks needed to deprecate or remove this feature and complete the DEPR.
+      placeholder: "- [ ] Task 1 needed to deprecate or remove this feature."
     validations:
       required: false
 
